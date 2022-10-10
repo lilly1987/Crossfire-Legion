@@ -1,5 +1,9 @@
 ﻿# 플러그인 사용 방법
  
+  
+ 모든 플러그인 최신 가이드는 https://github.com/lilly1987/BepInPluginSample 를 참조  
+ 
+ 
  ## BepInEx 설치 필요 
 
 https://github.com/BepInEx/BepInEx/releases  
